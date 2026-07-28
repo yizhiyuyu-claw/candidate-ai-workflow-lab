@@ -1,0 +1,14 @@
+name: candidate_ai_workflow_lab
+description: A small Dart exercise for AI-assisted engineering interviews.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  meta: ^1.12.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.25.0
